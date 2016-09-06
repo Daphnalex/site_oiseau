@@ -1,0 +1,12 @@
+
+header
+{
+	text-align: right;
+}
+
+#conteneur
+{
+	display:flex;
+	flex-direction:nowrap;
+	justify-content:center space-between;
+}

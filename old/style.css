@@ -1,0 +1,114 @@
+.img_flottante
+{
+	float:left;
+}
+
+.droite
+{
+	float:right;
+}
+#header
+{
+	display:flex;
+}
+body
+{
+	font-style: Verdana Arial;
+	font-size: 20px;
+}
+footer
+{
+	font-size:14px;
+	text-align: center;
+}
+h1
+{
+	text-align:center;
+}
+.dessous
+{
+	clear:both ;
+}
+.bordure
+{
+	border-bottom : 2px red dotted;
+	opacity: 0.2;
+	margin-bottom:10px;
+}
+.elements_gauche
+{
+	float:left;
+	text-align:center;
+	width:75%;
+}
+.element1
+{
+	background-color :#840b0b;
+	color:white;
+	padding-top:5px;
+	padding-bottom:5px;
+	
+}
+.element2
+{
+	background-color :#840b0b;
+	color:white;
+	padding-top:5px;
+	padding-bottom:5px;
+
+}
+anode
+{
+	margin-left: 2px;
+	width:23%;
+}
+.element3
+{
+	background-color :#f2efef;
+	color:black;
+	margin-left:5%;
+	padding: 5px 5px 5px 5px;
+	font-size: 16px;
+	border-top: 1px solid red;
+	border-bottom: 1px solid red;
+	text-align:justify;
+}
+.element4
+{
+	background-color :#f2efef;
+	color:black;
+	margin-left:5%;
+	padding: 5px 5px 5px 5px;
+	font-size: 16px;
+	border-top: 1px solid red;
+	border-bottom: 1px solid red;
+	text-align:justify;
+}
+.element5
+{
+	background-color :#f2efef;
+	color:black;
+	margin-left:5%;
+	padding: 5px 5px 5px 5px;
+}
+
+h1
+{
+	position:absolute;
+	margin-left:11%;
+	margin-top: 2%;
+	font-family:Verdana;
+	font-size:32px;
+}
+h2, h3
+{
+	text-align:center;
+}
+ul 
+{
+	margin-left:50px;
+}
+.conteneur
+{
+	display:flex;
+}

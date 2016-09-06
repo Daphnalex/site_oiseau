@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<meta charset="UTF-8"/>
+			<title>Oiseaux sauvages en détresse</title>
+			<link rel="stylesheet" href="style.css"/>
+		</head>
+		<body>
+			<header> 
+				<a href="">Forum doctissmo</a>
+				<a href="">Les textes de lois à connaitre</a>
+			</header>
+			<div id="contenus">
+				<div id="conteneur">
+					<div class="menu1" width=25%>
+						<img src="oisillons.png" alt="Image oisillon"/>
+						<h1>Oisillons tombés du nid</h1>
+						<ul>
+							<li><a href ="">Les premiers soins</a></li>
+							<li><a href="">Identifier un oisillon<a></li>
+							<li><a href="">L'alimentation par espèce</a></li>
+							<li><a href="">La réhabilitation</a></li>
+						</ul>
+					</div>
+					<div class="menu2" width=25%>
+						<img src="oiseaux_blesses.png" alt="Image oiseau blessé"/>
+						<h1>Oiseaux blessés</h1>
+						<ul>
+							<li><a href ="">Les centres de soins</a></li>
+							<li><a href="">La pharmacie d'urgence<a></li>
+							<li><a href="">Un oiseau en état de choc</a></li>
+							<li><a href="">Une blessure ouverte</a></li>
+						</ul>
+					</div>
+					<div class="menu3" width=25%>
+						<img src="oiseau_ciel.png" alt="Image rouge-gorge"/>
+						<h1>Aider les oiseaux à chaque saison</h1>
+						<ul>
+							<li><a href ="">L'hiver : une étape difficile</a></li>
+							<li><a href="">La saison des amours : quelques règles à respecter<a></li>
+						</ul>
+					</div>
+				</div>
+				
+			</div>
+			<footer>
+			</footer>
+		</body>
+	</html>

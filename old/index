@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>SOS oiseaux en détresse</titre>
+		</head>
+		<body>
+		<header>
+			<img src="" alt=logo_oiseau/>
+			<h1>SOS oiseau sauvage en détresse</h1>
+			<div class="liste_asso" src="http://...">Les centres d'accueil par région"</div>
+		</header>
+		<section>
+			<img src="http:// " alt="Accueuil">
+		</section>
+		<section>
+			<div class="element1">
+				<img src="http://" alt="image_oisillons"/>
+				<header>Oisillons tombés du nid</header>
+				<ol>
+					<li>Urgence : 1ers soins</li>
+					<li>Identification de l'espèce</li>
+					<li>Alimentation par espèce</li>
+					<li>Réhabilitation</li>
+				</ol>
+			</div>
+			<div class="element2">
+				<img src="http://" alt="oiseau_blesse"/>
+				<header>Oiseaux blessés</header>
+			</div>
+			<aside>
+				<h2> La réglementation:</h2>
+				<p>Texte de loi à trouver</p>
+			</aside>
+			<aside>
+				<a href="http://">Forum : doctissimo oiseaux</a>
+			</aside>
+		</body>
+	</html>
